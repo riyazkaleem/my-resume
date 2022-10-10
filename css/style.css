@@ -1,0 +1,18 @@
+  body {
+    background-color: lavenderblush;
+  }
+
+  hr {
+    background-color: greenyellow;
+    border-style: dotted none none;
+    border-width: 1.5px;
+    width: 30%;
+  }
+
+  h1, h3{
+    color: green;
+  }
+
+  .yourPic:hover{
+    background-color: paleturquoise;
+  }
